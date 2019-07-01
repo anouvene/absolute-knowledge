@@ -41,7 +41,7 @@
 						<p>
 							<strong>Absolute Knowledge</strong> est né des doigts experts de
 							plusieurs développeurs acharnés. Son doux nom fut donné par <strong>Michael</strong>
-							(à  prononcer à  la française ou à l'américaine). </br>Nous espérons
+							(à  prononcer à  la française ou à l'américaine). <br/>Nous espérons
 							que ton voyage dans l'apprentissage de l'informatique se
 							déroulera sans trop d'encombres...
 						</p>
